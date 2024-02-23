@@ -17,7 +17,7 @@ function Navbar()
                     <NavLink
                     onClick={OpenMenu}
                     exact  
-                    to="/"
+                    to="/MyPortFolio"
                     role="button"
                     tabIndex={0}
                     activeClassName="active"
