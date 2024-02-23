@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortFolio/static/css/main.4f66e9e2.css",
-    "main.js": "/MyPortFolio/static/js/main.2a5b87ec.js",
+    "main.js": "/MyPortFolio/static/js/main.fc9ed118.js",
     "static/js/453.acca0757.chunk.js": "/MyPortFolio/static/js/453.acca0757.chunk.js",
     "static/media/CryptoAdventurer.png": "/MyPortFolio/static/media/CryptoAdventurer.ca487ca18018e65bfc5c.png",
     "static/media/MovieWatchList.png": "/MyPortFolio/static/media/MovieWatchList.d45764a283adf54bfab0.png",
@@ -16,11 +16,11 @@
     "static/media/postman.svg": "/MyPortFolio/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
     "index.html": "/MyPortFolio/index.html",
     "main.4f66e9e2.css.map": "/MyPortFolio/static/css/main.4f66e9e2.css.map",
-    "main.2a5b87ec.js.map": "/MyPortFolio/static/js/main.2a5b87ec.js.map",
+    "main.fc9ed118.js.map": "/MyPortFolio/static/js/main.fc9ed118.js.map",
     "453.acca0757.chunk.js.map": "/MyPortFolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f66e9e2.css",
-    "static/js/main.2a5b87ec.js"
+    "static/js/main.fc9ed118.js"
   ]
 }
