@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f66e9e2.css",
-    "main.js": "/static/js/main.18d8e8ab.js",
-    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
-    "static/media/CryptoAdventurer.png": "/static/media/CryptoAdventurer.ca487ca18018e65bfc5c.png",
-    "static/media/MovieWatchList.png": "/static/media/MovieWatchList.d45764a283adf54bfab0.png",
-    "static/media/portfolioimage.png": "/static/media/portfolioimage.cc67f53fd6a9b23ae910.png",
-    "static/media/Git.png": "/static/media/Git.8322c082f223fd807d36.png",
-    "static/media/ExpenseTracker.png": "/static/media/ExpenseTracker.becf8d453a7e1ea24e46.png",
-    "static/media/TicTacToe.png": "/static/media/TicTacToe.8386db72562f61d88715.png",
-    "static/media/Angular_full_color_logo.svg.png": "/static/media/Angular_full_color_logo.svg.1b4fe88cce8c6f30b4d1.png",
-    "static/media/react.png": "/static/media/react.c6f0619642b9e8170a50.png",
-    "static/media/React1.webp": "/static/media/React1.bf0a60833251fab2f14d.webp",
-    "static/media/Oracle_SQL_Developer_logo.svg": "/static/media/Oracle_SQL_Developer_logo.f0959d359e0ca384f9808c45444e2e2e.svg",
-    "static/media/postman.svg": "/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
-    "index.html": "/index.html",
-    "main.4f66e9e2.css.map": "/static/css/main.4f66e9e2.css.map",
-    "main.18d8e8ab.js.map": "/static/js/main.18d8e8ab.js.map",
-    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/MyPortFolio/static/css/main.4f66e9e2.css",
+    "main.js": "/MyPortFolio/static/js/main.2a5b87ec.js",
+    "static/js/453.acca0757.chunk.js": "/MyPortFolio/static/js/453.acca0757.chunk.js",
+    "static/media/CryptoAdventurer.png": "/MyPortFolio/static/media/CryptoAdventurer.ca487ca18018e65bfc5c.png",
+    "static/media/MovieWatchList.png": "/MyPortFolio/static/media/MovieWatchList.d45764a283adf54bfab0.png",
+    "static/media/portfolioimage.png": "/MyPortFolio/static/media/portfolioimage.cc67f53fd6a9b23ae910.png",
+    "static/media/Git.png": "/MyPortFolio/static/media/Git.8322c082f223fd807d36.png",
+    "static/media/ExpenseTracker.png": "/MyPortFolio/static/media/ExpenseTracker.becf8d453a7e1ea24e46.png",
+    "static/media/TicTacToe.png": "/MyPortFolio/static/media/TicTacToe.8386db72562f61d88715.png",
+    "static/media/Angular_full_color_logo.svg.png": "/MyPortFolio/static/media/Angular_full_color_logo.svg.1b4fe88cce8c6f30b4d1.png",
+    "static/media/react.png": "/MyPortFolio/static/media/react.c6f0619642b9e8170a50.png",
+    "static/media/React1.webp": "/MyPortFolio/static/media/React1.bf0a60833251fab2f14d.webp",
+    "static/media/Oracle_SQL_Developer_logo.svg": "/MyPortFolio/static/media/Oracle_SQL_Developer_logo.f0959d359e0ca384f9808c45444e2e2e.svg",
+    "static/media/postman.svg": "/MyPortFolio/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
+    "index.html": "/MyPortFolio/index.html",
+    "main.4f66e9e2.css.map": "/MyPortFolio/static/css/main.4f66e9e2.css.map",
+    "main.2a5b87ec.js.map": "/MyPortFolio/static/js/main.2a5b87ec.js.map",
+    "453.acca0757.chunk.js.map": "/MyPortFolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f66e9e2.css",
-    "static/js/main.18d8e8ab.js"
+    "static/js/main.2a5b87ec.js"
   ]
 }
