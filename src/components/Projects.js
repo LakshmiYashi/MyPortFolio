@@ -29,7 +29,7 @@ function Projects()
         <Swiper
          modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
          pagination={{"clickable": true}}
-         slidesPerView={3}  
+         slidesPerView={2}  
          navigation = {true}
          spaceBetween={30}
          onSwiper={(swiper) => console.log(swiper)}

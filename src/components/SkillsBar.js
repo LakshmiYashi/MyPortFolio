@@ -17,7 +17,8 @@ const SkillsBar = () => {
   return (
     <div className="skills-container2">
     <h2 className="sub-title text-muted ">SKILLS</h2>
-    <div className="skills-list2">
+    <div className="row">
+    <div  className="col-md-3">
       <div className="skill-category2">
         <p className='white text-sub-title'>Frontend Development</p>
         <ul>
@@ -28,6 +29,8 @@ const SkillsBar = () => {
           <li className="skill-item2">State Management (Redux)</li>
         </ul>
       </div>
+      </div>
+      <div  className="col-md-3">
       <div className="skill-category2">
         <p className='white text-sub-title'>Backend Development</p>
         <ul>
@@ -38,6 +41,8 @@ const SkillsBar = () => {
           <li className="skill-item2">Oracle SQL</li>
         </ul>
       </div>
+      </div>
+      <div  className="col-md-3">
       <div className="skill-category2">
         <p className='white text-sub-title'>Tools & Others</p>
         <ul>
@@ -46,6 +51,7 @@ const SkillsBar = () => {
           <li className="skill-item2">npm & Yarn</li>
           <li className="skill-item2">Testing (Jest, Enzyme)</li>
         </ul>
+      </div>
       </div>
     </div>
   </div>
