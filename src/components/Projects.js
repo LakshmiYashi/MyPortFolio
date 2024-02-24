@@ -4,7 +4,7 @@ import Card from "./Card";
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
+import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper/modules';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -27,13 +27,17 @@ function Projects()
         <br></br>
         <div className="row">
         <Swiper
-         modules={[Navigation, Pagination, Scrollbar, A11y]}
+         modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
          pagination={{"clickable": true}}
-         slidesPerView={2}  
-         navigation 
-         spaceBetween={20}
+         slidesPerView={3}  
+         navigation = {true}
+         spaceBetween={30}
          onSwiper={(swiper) => console.log(swiper)}
-         onSlideChange={() => console.log('slide change')}>
+         onSlideChange={() => console.log('slide change')}
+         autoplay= {{
+            delay: 5000,
+           disableOnInteraction: true,
+        }}>
                   {projects.map((project) => (
                            <SwiperSlide className="mySwiper"> <Card 
        

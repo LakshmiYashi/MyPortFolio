@@ -2,6 +2,7 @@ import Crypto from '../data/CryptoAdventurer.png';
 import Expense from '../data/ExpenseTracker.png';
 import TicTacToeLogo from '../data/TicTacToe.png';
 import WatchListLogo from '../data/MovieWatchList.png';
+
 const projects = [
     {
         id: 1,
@@ -14,7 +15,7 @@ const projects = [
         id: 2,
         text:"Expense Tracker",
         img:Expense,
-        description:"Helps in Calculating the Expenses",
+        description:"Simplify budgeting with this user-friendly Expense Tracker.",
         githubLink:"https://github.com/LakshmiYashi/ExpensesTracker"
     },
     {
@@ -28,7 +29,7 @@ const projects = [
         id: 4,
         text:"Movie WatchList",
         img:WatchListLogo,
-        description:"Simplify your movie choices with an easy-to-use watchlist and watched list feature.",
+        description:"Simplify movie choices with an easy-to-use watchlist/watched list feature.",
         githubLink:"https://github.com/LakshmiYashi/MovieWatchList"
     }
 
